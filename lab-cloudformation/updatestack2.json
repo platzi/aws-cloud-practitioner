@@ -1,0 +1,13 @@
+{
+  "Resources": {
+    "platzilab": {
+      "Type": "AWS::S3::Bucket",
+      "Properties": {
+        "BucketName": "catsareawesome123"
+      }
+    },
+    "platzilabalexis  ": {
+      "Type": "AWS::S3::Bucket"
+    }
+  }
+}

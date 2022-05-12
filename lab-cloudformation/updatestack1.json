@@ -1,0 +1,10 @@
+{
+  "Resources": {
+    "platzilab": {
+      "Type": "AWS::S3::Bucket"
+    },
+    "platzilabalexis": {
+      "Type": "AWS::S3::Bucket"
+    }
+  }
+}
